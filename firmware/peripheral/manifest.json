@@ -1,0 +1,15 @@
+{
+  "$comment": "Index of the current BLE peripheral firmware release. Update version and release tag when you cut a firmware release. hex = complete application-core image, net = nRF5340 network-core image, bin = complete ESP32 flash image. FOTA images are not published: the EMBIoT Toolkit application carries them. The EMBIoT Toolkit application does NOT read this file (it has no network access) \u2014 it exists for the documentation and any release tooling.",
+  "release": {
+    "role": "peripheral",
+    "tag": "peripheral-v1.0.27",
+    "base": "https://github.com/embedox/embiot-toolkit/releases/download/peripheral-v1.0.27/"
+  },
+  "boards": [
+    { "id": "nrf5340dk",   "name": "nRF5340 DK",        "soc": "nRF5340",    "version": "1.0.27", "hex": "peripheral-nrf5340dk-1.0.27.hex", "net": "peripheral-nrf5340dk-1.0.27-net.hex" },
+    { "id": "nrf54l15dk",  "name": "nRF54L15 DK",       "soc": "nRF54L15",   "version": "1.0.27", "hex": "peripheral-nrf54l15dk-1.0.27.hex" },
+    { "id": "nrf54l15tag", "name": "nRF54L15 tag",      "soc": "nRF54L15",   "version": "1.0.27", "hex": "peripheral-nrf54l15tag-1.0.27.hex" },
+    { "id": "thingy53",    "name": "Thingy:53",         "soc": "nRF5340",    "version": "1.0.27", "hex": "peripheral-thingy53-1.0.27.hex", "net": "peripheral-thingy53-1.0.27-net.hex" },
+    { "id": "esp32s3",     "name": "ESP32-S3-DevKitC",  "soc": "ESP32-S3",   "version": "1.0.27", "hex": null,                     "bin": "peripheral-esp32s3-1.0.27.bin" }
+  ]
+}
