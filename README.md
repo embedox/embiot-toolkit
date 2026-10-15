@@ -7,6 +7,7 @@
 **EMBEDOX's Bluetooth LE toolkit consists of BLE peripheral firmware for off‑the‑shelf MCU development boards and the application that drives them — environment sensors, IMU, camera, controls, and firmware updates, straight from your phone.**
 
 [![Get it on Google Play](https://img.shields.io/badge/Google_Play-EMBIoT_Toolkit-0019FF?logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.embedox.embiot)
+&nbsp;·&nbsp; [![Download on the App Store](https://img.shields.io/badge/App_Store-EMBIoT_Toolkit-0019FF?logo=appstore&logoColor=white)](https://apps.apple.com/app/embiot-toolkit/id6817810928)
 &nbsp;·&nbsp; [Download board firmware](https://github.com/embedox/embiot-toolkit/releases)
 
 </div>
@@ -36,7 +37,7 @@ It combines **BLE peripheral firmware** for supported MCU development boards wit
 
 </div>
 
-This repository hosts the toolkit's **firmware** (per board, under [Releases](https://github.com/embedox/embiot-toolkit/releases)) and the **documentation**; the application is on Google Play. The application itself works fully offline — it never uses the internet, collects no data, and needs no account.
+This repository hosts the toolkit's **firmware** (per board, under [Releases](https://github.com/embedox/embiot-toolkit/releases)) and the **documentation**; the application is on Google Play and the App Store. The application itself works fully offline — it never uses the internet, collects no data, and needs no account.
 
 ---
 

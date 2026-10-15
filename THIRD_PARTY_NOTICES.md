@@ -1,6 +1,6 @@
 # Third-party notices
 
-These notices cover the BLE peripheral firmware images under `firmware/peripheral/`. The EMBIoT Toolkit application, distributed on Google Play, carries its own third-party notices.
+These notices cover the BLE peripheral firmware images under `firmware/peripheral/`. The EMBIoT Toolkit application, distributed on Google Play and the App Store, carries its own third-party notices.
 
 The EMBEDOX evaluation license in [LICENSE.md](LICENSE.md) covers the code written by EMBEDOX Labs Ltd. The firmware images in this repository also contain the third-party components listed below. Those components remain under their own licenses, which are reproduced in the [License texts](#license-texts) section and are not changed by LICENSE.md. Where a component is offered under a choice of licenses, the license named in the Components list is the one EMBEDOX has elected. The elected licenses are Apache-2.0 for the Mbed TLS-derived files (Oberon PSA Crypto core, TF-PSA-Crypto) and the Boost Software License 1.0 for the Ryu float-conversion code in picolibc. Components under the Nordic 5-Clause License may only be used with a Nordic Semiconductor ASA integrated circuit and may not be reverse engineered, decompiled or disassembled.
 
